@@ -874,11 +874,6 @@ footer.entry-meta {
     position: relative
 }
 
-.wp-caption img[class*=wp-image-] {
-    display: block;
-    margin: 0 auto 0;
-    max-width: 100%
-}
 
 .wp-caption .wp-caption-text {
     font-size: 75%;
