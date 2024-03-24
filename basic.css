@@ -320,11 +320,11 @@ white-space: nowrap;
 	 .column {
         width: 100%;
 }
-
+}
 
 input#fscf_print_button2 {
     margin-top: 20px;
 }
 .sponsorsall {
 		display: none !important;
-	}
+}
