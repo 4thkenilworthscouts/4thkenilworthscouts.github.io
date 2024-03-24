@@ -742,36 +742,3 @@ embed,iframe,object {
 .footer-widgets .widget {
     margin-bottom: 30px
 }
-
-.footer-widgets .widget:last-child,.sidebar .widget:last-child {
-    margin-bottom: 0
-}
-
-.widget ul li {
-    list-style-type: none;
-    position: relative;
-    margin-bottom: .5em
-}
-
-.widget ul li ul {
-    margin-left: 1em;
-    margin-top: .5em
-}
-
-.wp-calendar-table {
-    table-layout: fixed
-}
-
-.site-content {
-    display: flex
-}
-
-.grid-container {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 1200px
-}
-
-.page-header,.sidebar .widget,.site-main>* {
-    margin-bottom: 20px
-}
